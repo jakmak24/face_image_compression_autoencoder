@@ -1,0 +1,9 @@
+{
+  "chkpt"       : "D:/AGH/Magisterka/my_cae2/experiments/default2/chkpt/model_3.pth",
+  "exp_name"    : "my_model",
+  "batch_every" : 1,
+  "shuffle"     : false,
+  "dataset_path": "D:/AGH/Magisterka/my_dataset",
+  "num_workers" : 1,
+  "device"      : "cpu"
+}
